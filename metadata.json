@@ -1,0 +1,6 @@
+{
+  "name": "星際大戰：X翼戰機攔截戰 (Star Wars: X-Wing Intercept)",
+  "description": "Star Wars X-Wing arcade interceptor game featuring HTML5 Canvas vector graphics, Web Audio synthesizer effects, and responsive mobile/desktop controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
